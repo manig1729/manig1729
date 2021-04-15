@@ -19,4 +19,4 @@ I am Manikandan Gunaseelan, a third-year undergraduate studying ECE at BITS Pila
 
 Here you can find the different projects I have worked on (or am working on)
 
-You'll find a bit of Verilog, automation projects in python and small games on javascript
+You'll find a bit of Verilog, automation projects in python and small games on JavaScript
