@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <!--
 **manig1729/manig1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
