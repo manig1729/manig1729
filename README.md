@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Manikandan Gunaseelan, a third-year undergraduate studying ECE at BITS Pilani K K Birla Goa Campus
+I am Manikandan Gunaseelan, an undergraduate studying ECE at BITS Pilani K K Birla Goa Campus
 
 Here you can find the different projects I have worked on (or am working on)
 
-You'll find a bit of Verilog, automation projects in python and small games on JavaScript
+You'll find a bit of Verilog, automation projects in python, small games in JavaScript and the config files for the programs I use
