@@ -20,3 +20,5 @@ I am Manikandan Gunaseelan, an undergraduate studying ECE at BITS Pilani K K Bir
 Here you can find the different projects I have worked on (or am working on)
 
 You'll find a bit of Verilog, automation projects in python, small games in JavaScript and the config files for the programs I use
+
+Reach out to me via E-mail : [G-mail](mailto:manikandang1729@gmail.com) or [Proton-Mail](mailto:manikandang1729@pm.me)
