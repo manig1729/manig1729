@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Manikandan Gunaseelan, an undergraduate studying ECE at BITS Pilani K K Birla Goa Campus
+I am Manikandan Gunaseelan, a Software Engineer working for Cisco Systems
 
 Here you can find the different projects I have worked on (or am working on)
 
