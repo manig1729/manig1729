@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Manikandan Gunaseelan, a Software Engineer working for Cisco Systems
+I am Manikandan Gunaseelan, CS Grad Student at CU Boulder and previously a Software Engineer for Cisco Systems
 
 Here you can find the different projects I have worked on (or am working on)
 
-You'll find C projects, JavaScript games, Python and Verilog projects, and my Ubuntu dotfiles
+You'll find Distributed systems, Agentic AI, Operating Systems, JavaScript games, Python and Verilog projects, and my Ubuntu dotfiles
 
 Reach out to me via [E-mail](mailto:manikandang1729@gmail.com)
